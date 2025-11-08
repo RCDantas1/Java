@@ -1,5 +1,5 @@
 # JAVA
-# Em construção...    <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/768bc66a-8c3f-4f89-97c2-8b832d77b436" />
+# Em construção...    <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/768bc66a-8c3f-4f89-97c2-8b832d77b436" />
 
 
 Bem vindos ao meu repositório de códigos em Java!
